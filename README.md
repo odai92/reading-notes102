@@ -22,6 +22,6 @@
 
 my website on GITHUB is [odai website](https://odai92.github.io/reading-notes/)
 
-![alt text](odai.jpg)
+
 
 
