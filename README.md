@@ -1,36 +1,78 @@
-# Code 102
-*Day one*
-
-**Odai Qudah**
-
-1. Today we talked about Mark Down, its a language a markup language, the idea is to write a lighwighet that dosnt use tage and functualy for generating HTML files, gives you control but slow down awthoring, files saved as ( README.mn or inex.md ) 
+<html>
+    <title>Odai's Repo</title>
+<head>
 
 
-'dragonfly'
+    <p></p>
+    <form action="http://www.example.com/login/"
+method="post">
+<label for="username">Username:</label>
+<input type="text" name="username"
+required="required" /></title><br />
+<label for="password">Password:</label>
+<input type="password" name="password"
+required="required" />
+<input type="submit" value="<Submit>" />
+</form>
+    
+
+<div id="header">
+    <img src="lumi.jpeg" alt="ATAC" title="I Got My Knowldge From This Wonderfull Place" />
+    <ul>
+    <li><a href="DayOne.html">First Day Repo</a></li>
+    <li><a href="DayTwo.html">Second Day Repo</a></li>
+    <li><a href="DayThree.html">Third Day Repo</a></li>
+    <li><a href="DayFour.html">Forth Day Repo</a></li>
+    </ul>
+    </div><!-- end of header -->
 
 
-2. and we talked about assigments and submmission instructions
+</head>
 
-3. we also talked about mindsit, i realised that there is two types of mindsit: Fixed and grouth.
+    
+    <ol>
+        <li style="color:rgb(28, 207, 11);text-align:center;">HTML &</li>
+        <li style="color:rgb(32, 82, 102);text-align:center;">CSS &</li>
+        <li style="color:rgb(100, 54, 54);text-align:center;">Java</li>
+    </ol>
 
-*a grouth mindsit be more productive have high energy dosnt effected by negative people around him and always tryies to solve and fix situations and asks himself why things exist with a high vibes recommand him self that he can do it.*
-*a fixed mindsit person is lettraly a negative guy, who always tell himself this is hard i cant do it i dont understand what they are talking about focus on the problme not the solution.**
+<body>
+    <main>
+       
+        <ul>
+            <li>
+                Here you can find my GitHub Profile: <a href="https://github.com/odai92/reading-notes"> Odai Github </a>
+            </li>
+            <li>
+                Here you can find my FaceBook Profile: <a href="https://web.facebook.com/Odai.Qudah.18">Odai's FaceBook </a>
+            </li>
+            <li>
+                Here you can find my Instagram Account: <a href="https://instagram.com/3odai92">Odai's Instagram</a>
+            </li>
+        </ul>
+
+          
+        <form action="http://www.example.org/subscribe.php">
+            <p>Subscribe to our email list:</p>
+            <input type="text" name="email" />
+            <input type="image" src="subscribe.png"
+            width="100" height="20" />
+            </form>
+        
+         
 
 
-# Its all about practise !
-# Its all about being a grouth mindsit person !
-# Its all about to focus with our great Innstructor !
+        
 
+    </main>
 
-*Loops are handy, if you want to run the same code over and over again, each time with a different value
-*Loops can execute a block of code as long as a specified condition is reached.
-*Loops are handy because they save time, reduce errors, and they make code more readable.
+<script src="scripts.js">  </script> 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png"/>
-
-
-my website on GITHUB is [odai website](https://odai92.github.io/reading-notes/)
-
-
-
-
+<form action="http://www.example.com/comments.php">
+    <p>What did you think of this gig?</p>
+    <textarea name="comments" cols="20" rows="4">Enter
+    your comments...</textarea>
+    </form>
+</body>
+<footer style="color:red;text-align:center;"> © 2020 </footer>
+</html>
