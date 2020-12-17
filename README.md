@@ -20,6 +20,13 @@
 # Its all about to focus with our great Innstructor !
 
 
+*Loops are handy, if you want to run the same code over and over again, each time with a different value
+*Loops can execute a block of code as long as a specified condition is reached.
+*Loops are handy because they save time, reduce errors, and they make code more readable.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png"/>
+
+
 my website on GITHUB is [odai website](https://odai92.github.io/reading-notes/)
 
 
