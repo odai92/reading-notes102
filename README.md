@@ -41,10 +41,10 @@ required="required" />
        
         <ul>
             <li>
-                Here you can find my GitHub Profile: <a href="https://github.com/odai92/reading-notes"> Odai Github </a>
+                Here you can find my GitHub Profile: <a href="https://github.com/odai92/reading-notes"> Odai's Github </a>
             </li>
             <li>
-                Here you can find my FaceBook Profile: <a href="https://web.facebook.com/Odai.Qudah.18">Odai's FaceBook </a>
+                Here you can find my FaceBook Profile: <a href="https://facebook.com/Odai.Qudah.18">Odai's FaceBook </a>
             </li>
             <li>
                 Here you can find my Instagram Account: <a href="https://instagram.com/3odai92">Odai's Instagram</a>
@@ -65,14 +65,10 @@ required="required" />
         
 
     </main>
+<link rel="custom sheet" href="custom.css">
+<script src="scripts.js"></script> 
 
-<script src="scripts.js">  </script> 
 
-<form action="http://www.example.com/comments.php">
-    <p>What did you think of this gig?</p>
-    <textarea name="comments" cols="20" rows="4">Enter
-    your comments...</textarea>
-    </form>
 </body>
 <footer style="color:red;text-align:center;"> © 2020 </footer>
 </html>
